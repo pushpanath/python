@@ -1,2 +1,2 @@
 # python
-All python codes are stored here as well superrr er
+All python codes are stored here as well superrr
