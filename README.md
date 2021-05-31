@@ -1,2 +1,2 @@
 # python
-All python codes are stored here
+All python codes are stored here as well
